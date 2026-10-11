@@ -46,16 +46,3 @@ O projeto utiliza a amostra financeira Financial Sample, com dados de vendas, lu
 Aprendizados
 
 O desenvolvimento deste projeto tem como objetivo praticar a importação e organização de dados, a construção de visualizações, a análise de indicadores e a elaboração de relatórios interativos utilizando o Power BI.
-
-Referências
-
-* Desafio Power BI — DIO: https://www.dio.me/
-* Repositório de referência — Power BI Analyst: https://github.com/julianazanelatto/power_bi_analyst
-
-Status do projeto
-
-Em desenvolvimento.
-
-O projeto será atualizado conforme a construção das páginas e a finalização do relatório no Power BI.
-
-Desenvolvido como parte dos estudos de análise de dados e Business Intelligence na DIO.
